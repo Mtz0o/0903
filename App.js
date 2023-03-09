@@ -25,9 +25,7 @@ const aparencia = StyleSheet.create(
 teste_imagem:{
   width:100,
   height:100,
-  marginTop: 50
-
-
+  marginTop: 50,
   },
 
 
